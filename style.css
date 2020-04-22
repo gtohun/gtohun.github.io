@@ -1,0 +1,12 @@
+h1 {font-size: 44px;}
+main{font-family: 'Playfair Display SC', serif;}
+img{width:150px;}
+
+a{ display:block;
+color:lime;}
+
+
+div{display:flex;  
+}
+section{width:200px;
+text-align:center;}
